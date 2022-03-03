@@ -1,0 +1,216 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?q81kmo');
+  src:  url('fonts/icomoon.eot?q81kmo#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?q81kmo') format('truetype'),
+    url('fonts/icomoon.woff?q81kmo') format('woff'),
+    url('fonts/icomoon.svg?q81kmo#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-itp-visa:before {
+  content: "\e900";
+}
+.icon-24-hour-accident:before {
+  content: "\e901";
+}
+.icon-find-my-bag:before {
+  content: "\e902";
+}
+.icon-transport-accident:before {
+  content: "\e903";
+}
+.icon-pet-insurance:before {
+  content: "\e904";
+}
+.icon-protected-purchase:before {
+  content: "\e905";
+}
+.icon-civil-liability:before {
+  content: "\e906";
+}
+.icon-accidental-death:before {
+  content: "\e907";
+}
+.icon-home-insurance:before {
+  content: "\e908";
+}
+.icon-disability:before {
+  content: "\e909";
+}
+.icon-pregnancy:before {
+  content: "\e90a";
+}
+.icon-medical-assistance:before {
+  content: "\e90b";
+}
+.icon-pre-existing-diseases:before {
+  content: "\e90c";
+}
+.icon-trip-cancellation:before {
+  content: "\e90d";
+}
+.icon-sports:before {
+  content: "\e90e";
+}
+.icon-smart-devices:before {
+  content: "\e90f";
+}
+.icon-baggage-protected:before {
+  content: "\e910";
+}
+.icon-sanitary-repatriation:before {
+  content: "\e911";
+}
+.icon-covid-extra:before {
+  content: "\e912";
+}
+.icon-person-add:before {
+  content: "\e913";
+}
+.icon-chevron-right:before {
+  content: "\e914";
+}
+.icon-close:before {
+  content: "\e915";
+}
+.icon-check:before {
+  content: "\e916";
+}
+.icon-check-bold:before {
+  content: "\e917";
+}
+.icon-phone:before {
+  content: "\e918";
+}
+.icon-hospital-box:before {
+  content: "\e919";
+}
+.icon-account-key:before {
+  content: "\e91a";
+}
+.icon-contact-mail:before {
+  content: "\e91b";
+}
+.icon-android:before {
+  content: "\e91c";
+}
+.icon-apple:before {
+  content: "\e91d";
+}
+.icon-facebook:before {
+  content: "\e91e";
+}
+.icon-instagram:before {
+  content: "\e91f";
+}
+.icon-linkedin:before {
+  content: "\e920";
+}
+.icon-pinterest:before {
+  content: "\e921";
+}
+.icon-skype:before {
+  content: "\e922";
+}
+.icon-twitter:before {
+  content: "\e923";
+}
+.icon-youtube-play:before {
+  content: "\e924";
+}
+.icon-quotes:before {
+  content: "\e925";
+}
+.icon-passengers:before {
+  content: "\e926";
+}
+.icon-cart-plus:before {
+  content: "\e927";
+}
+.icon-credit-card:before {
+  content: "\e928";
+}
+.icon-information:before {
+  content: "\e929";
+}
+.icon-view-column:before {
+  content: "\e92a";
+}
+.icon-list-bulleted:before {
+  content: "\e92b";
+}
+.icon-sync:before {
+  content: "\e92c";
+}
+.icon-plus-circle:before {
+  content: "\e92d";
+}
+.icon-chevron-down:before {
+  content: "\e92e";
+}
+.icon-arrow-left:before {
+  content: "\e92f";
+}
+.icon-calendar:before {
+  content: "\e930";
+}
+.icon-minus:before {
+  content: "\e931";
+}
+.icon-plus:before {
+  content: "\e932";
+}
+.icon-check-list:before {
+  content: "\e933";
+}
+.icon-reload:before {
+  content: "\e934";
+}
+.icon-back:before {
+  content: "\e935";
+}
+.icon-account-circle:before {
+  content: "\e936";
+}
+.icon-medical-bag:before {
+  content: "\e937";
+}
+.icon-menu:before {
+  content: "\e938";
+}
+.icon-logo:before {
+  content: "\e939";
+}
+.icon-calendar-today:before {
+  content: "\e93a";
+}
+.icon-map-marker:before {
+  content: "\e93b";
+}
+.icon-select-chevron-down:before {
+  content: "\e93c";
+}
+.icon-information-bordered:before {
+  content: "\e93d";
+}
+.icon-account-passenger:before {
+  content: "\e93e";
+}
